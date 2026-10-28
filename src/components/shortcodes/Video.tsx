@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Video({
     title,
     width = 500,

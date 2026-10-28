@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Button = ({ label, link, style, rel }: { label: string; link: string; style?: string; rel?: string }) => {
     return (
         <a
